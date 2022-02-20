@@ -1,7 +1,5 @@
-import React from 'react'
+import React from "react";
 
 export default function _NameLayout() {
-  return (
-    <div>_NameLayout</div>
-  )
+  return <div>_NameLayout</div>;
 }

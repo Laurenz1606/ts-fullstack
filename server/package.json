@@ -22,6 +22,7 @@
     "@babel/preset-env": "^7.16.11",
     "@babel/preset-typescript": "^7.16.7",
     "@types/cors": "^2.8.12",
+    "@types/express": "^4.17.13",
     "@types/jest": "^27.4.0",
     "@types/node": "^17.0.18",
     "@types/uuid": "^8.3.4",
@@ -33,6 +34,9 @@
     "typescript": "^4.5.5"
   },
   "dependencies": {
+    "@laurenz1606/logger": "^3.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
     "express": "^4.17.3",
     "mongoose": "^6.2.2",
     "uuid": "^8.3.2"

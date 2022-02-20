@@ -1,9 +1,7 @@
 import React from "react";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 
-type Props = {};
-
-export default function Router({}: Props) {
+export default function Router() {
   return (
     <BrowserRouter>
       <Routes>
